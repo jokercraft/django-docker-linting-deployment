@@ -1,5 +1,5 @@
-# easytrade
-Easy Trade
+# Django Project with Docker and Testing setups with the basic configuration for CI/CD Github Actions
+
 
 # CREATE THE GITHUB REPO
 
